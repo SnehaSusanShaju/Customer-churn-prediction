@@ -1,1 +1,2 @@
 # Customer-churn-prediction
+ In this project,I build a customer churn prediction model using artificial neural network or ANN. Customer churn measures how and why are customers leaving the business. The dataset is telecom customer churn dataset from kaggle and build a deep learning model for churn prediction. From this project,I understand precision,recalll and accuracy of this model by using confusion matrix and classification report.
